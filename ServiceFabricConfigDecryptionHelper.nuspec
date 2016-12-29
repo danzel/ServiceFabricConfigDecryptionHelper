@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ServiceFabricConfigDecryptionHelper</id>
+    <version>1.0.0</version>
+    <title>ServiceFabricConfigDecryptionHelper</title>
+    <authors>Dave Leaver</authors>
+    <owners>Dave Leaver</owners>
+    <licenseUrl>https://github.com/danzel/ServiceFabricConfigDecryptionHelper/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/danzel/ServiceFabricConfigDecryptionHelper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simplifies getting the string value from an encrypted ServiceFabric configuration file</description>
+    <releaseNotes>First version.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>ServiceFabric</tags>
+  </metadata>
+</package>

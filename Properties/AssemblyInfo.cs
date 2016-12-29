@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ServiceFabricConfigDecryptionHelper")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simplifies getting the string value from an encrypted ServiceFabric configuration file")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ServiceFabricConfigDecryptionHelper")]
